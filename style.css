@@ -1,0 +1,76 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    
+}
+
+header{
+    background-color: #174890;
+}
+
+.firstslide{
+    width: 100%;
+    background-color: #174890;
+}
+.firstimage{
+    height: 600px;
+    width: 100%;
+
+}
+
+.text{
+    margin-top: 120px;
+    margin-left: -100px;
+}
+
+.arc{
+    height: 85.75px;
+    width: 100%;
+}
+
+.cans{
+    height: 465.3;
+}
+
+.factory{
+    height: 371.25px;
+    border-radius: 50px;
+}
+
+.cardsection{
+    background-color: #174890;
+}
+
+.spotlight{
+    background-color: #174890;
+    margin: 0%;
+}
+
+footer{
+    background-color: #174890;
+}
+
+@media (max-width:768px){
+    .more{
+        font-size: 45px;
+    }
+}
+
+@media (max-width:768px){
+    .white{
+        font-size: 25px;
+    }
+}
+
+@media (max-width:768px){
+    .factory{
+        height: 200px;
+    }
+}
+
+@media (max-width:768px){
+    .qoutes{
+        font-size: 10px;
+    }
+}
